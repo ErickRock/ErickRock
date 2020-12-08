@@ -1,6 +1,3 @@
-<!--
-**ErickRock/ErickRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm  Erick Garcia Godoy  <img src="https://media.tenor.com/images/3422f90f24b15275527c23bdbd923062/tenor.gif" width="80">
 
 [![Linkedin: ErickGarciaGodoy](https://img.shields.io/static/v1?label=LinkedIn&message=Erick+Garcia+Godoy%20&color=blue&logo=LinkedIn&style=flat-rounded&logoColor=white)](https://www.linkedin.com/in/ErickGarciaGodoy)
