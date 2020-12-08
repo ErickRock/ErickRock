@@ -18,15 +18,11 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=erickrock&show_icons=true">
 
-<code>
 <a href="https://github.com/ErickRock/oh-my-zsh-on-windows-terminal">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickRock&repo=oh-my-zsh-on-windows-terminal" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickRock&repo=oh-my-zsh-on-windows-terminal" />
 </a>
-</code>
 
-<a href="https://github.com/MehediH/winstall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MehediH&repo=winstall" />
-</a>
+
 
 
 ## Languages and Technologies I use daily
