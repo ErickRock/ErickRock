@@ -17,13 +17,13 @@
 :computer: **I'm a volunteer in the Microsoft community - [Microsoft community](https://answers.microsoft.com/pt-br/profile/7bf89b3c-a0e4-46a4-b017-99a885f3c367)**
 
 <a href="https://github.com/ErickRock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickRock&theme=radical&&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickRock&theme=dracula&&show_icons=true">
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickRock&layout=compact&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickRock&layout=compact&show_icons=true&theme=dracula"/>
 </a>
 <a href="https://github.com/ErickRock/oh-my-zsh-on-windows-terminal">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickRock&repo=oh-my-zsh-on-windows-terminal&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickRock&repo=oh-my-zsh-on-windows-terminal&theme=dracula" />
 </a>
 
 ## Languages and Technologies I use daily
