@@ -16,7 +16,7 @@
 
 :computer: **I'm a volunteer in the Microsoft community - [Microsoft community](https://answers.microsoft.com/pt-br/profile/7bf89b3c-a0e4-46a4-b017-99a885f3c367)**
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=erickrock&show_icons=true">
+[![Erick Garcia github stats](https://github-readme-stats.vercel.app/api?username=ErickRock)](https://github.com/ErickRock/github-readme-stats)
 
 <a href="https://github.com/ErickRock/oh-my-zsh-on-windows-terminal">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickRock&repo=oh-my-zsh-on-windows-terminal" />
