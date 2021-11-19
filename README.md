@@ -8,7 +8,7 @@
 
 :man_technologist: <strong>I'm a Software Developer</strong>
 
-<img height="9" src="https://static.wixstatic.com/media/bed242_6c53bc1779cc4cfda30b229d2622a1f6~mv2.png/v1/fill/w_500,h_98,al_c,q_85,usm_0.66_1.00_0.01/New%20logo%20-%20Fundo%20Claro%20v2.webp">**I'm currently working as a Full Technical Support Analyst at [Omegaworks Soluções em TI](https://www.omegaworks.com.br/)** 
+**I'm currently working  at [IPNET Growth Partner](https://ipnet.cloud/)** 
 
 :mag: **I'm looking for relocation as a software developer** <img height="30" src="https://media.tenor.com/images/22e8b06290016a982285cf941e339276/tenor.gif"> 
 
