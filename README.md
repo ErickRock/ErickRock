@@ -8,8 +8,6 @@
 
 :man_technologist: <strong>I'm a Software Developer</strong>
 
-**I'm currently working  at [IPNET Growth Partner](https://ipnet.cloud/)** 
-
 :mag: **I'm looking for relocation as a software developer** <img height="30" src="https://media.tenor.com/images/22e8b06290016a982285cf941e339276/tenor.gif"> 
 
 :page_with_curl: **I'm posting tips from the tech world on [LinkedIn](https://linkedin.com/in/ErickGarciaGodoy)**
