@@ -1,7 +1,7 @@
 # Hi, I'm  Erick Garcia Godoy  <img src="https://media.tenor.com/images/3422f90f24b15275527c23bdbd923062/tenor.gif" width="80">
 
 [![Linkedin: ErickGarciaGodoy](https://img.shields.io/static/v1?label=LinkedIn&message=Erick+Garcia+Godoy%20&color=blue&logo=LinkedIn&style=flat-rounded&logoColor=white)](https://www.linkedin.com/in/ErickGarciaGodoy)
-[![Twitter: Rickkgarciia](https://img.shields.io/twitter/follow/Rickkgarciia?style=social)](https://twitter.com/jesusdaliba)
+[![Twitter: Rickkgarciia](https://img.shields.io/twitter/follow/jesusdaliba?style=social)](https://twitter.com/jesusdaliba)
 [![GitHub Erick](https://img.shields.io/github/followers/ErickRock?label=follow&style=social)](https://github.com/ErickRock)
 
 ## About me
