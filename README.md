@@ -14,15 +14,78 @@
 
 :computer: **I'm a volunteer in the Microsoft community - [Microsoft community](https://answers.microsoft.com/pt-br/profile/7bf89b3c-a0e4-46a4-b017-99a885f3c367)**
 
-<a href="https://github.com/ErickRock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickRock&theme=dracula&&show_icons=true">
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickRock&layout=compact&show_icons=true&theme=dracula"/>
-</a>
-<a href="https://github.com/ErickRock/oh-my-zsh-on-windows-terminal">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickRock&repo=oh-my-zsh-on-windows-terminal&theme=dracula" />
-</a>
+<!--START_SECTION:waka-->
+
+## Current projects
+- [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
+- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
+- Some other small side-projects that are not important enough to mention
+
+## My weekly Waka stats
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+🌆 Daytime    74 commits     ████████████░░░░░░░░░░░░░   49.33% 
+🌃 Evening    45 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
+🌙 Night      21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+Tuesday      40 commits     ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+Wednesday    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+Thursday     32 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
+Friday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
+Sunday       34 commits     █████░░░░░░░░░░░░░░░░░░░░   22.67%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+⌚︎ Time zone: Europe/Amsterdam
+
+💬 Programming Languages: 
+Python                   14 hrs 15 mins      ████████████░░░░░░░░░░░░░   48.08% 
+JavaScript               9 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   30.72% 
+Vue.js                   3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.35% 
+Markdown                 52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+Docker                   44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+
+🔥 Code Editors: 
+VS Code                  15 hrs 11 mins      ████████████░░░░░░░░░░░░░   51.21% 
+PyCharmCore              14 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.79%
+
+🐱‍💻 Projects: 
+Coffee-Tracker           14 hrs 38 mins      ████████████░░░░░░░░░░░░░   49.34% 
+CoffeeTrackerServer      5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.36% 
+edgyblog                 5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
+Coffee-Tracker-Receiver  2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
+Coffee-Tracker-Tool      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+
+💻 Operating System: 
+Windows                  29 hrs 40 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+<!--END_SECTION:waka-->
 
 ## Languages and Technologies I use daily
 <!-- <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
