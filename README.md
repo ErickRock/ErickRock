@@ -6,21 +6,15 @@
 
 ## About me
 
-:man_technologist: <strong>I'm a Software Developer</strong>
+<strong>I'm a Software Developer</strong>
 
-:mag: **I'm looking for relocation as a software developer** <img height="30" src="https://media.tenor.com/images/22e8b06290016a982285cf941e339276/tenor.gif"> 
+**I'm looking for a job as a software developer** <img height="30" src="https://media.tenor.com/images/22e8b06290016a982285cf941e339276/tenor.gif"> 
 
-:page_with_curl: **I'm posting tips from the tech world on [LinkedIn](https://linkedin.com/in/ErickGarciaGodoy)**
+**I'm posting tips from the tech world on [LinkedIn](https://linkedin.com/in/ErickGarciaGodoy)**
 
-:computer: **I'm a volunteer in the Microsoft community - [Microsoft community](https://answers.microsoft.com/pt-br/profile/7bf89b3c-a0e4-46a4-b017-99a885f3c367)**
+**I'm a volunteer in the Microsoft community - [Microsoft community](https://answers.microsoft.com/pt-br/profile/7bf89b3c-a0e4-46a4-b017-99a885f3c367)**
 
 <!--START_SECTION:waka-->
-
-## Current projects
-- [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
-- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
-- Some other small side-projects that are not important enough to mention
-
 ## My weekly Waka stats
 
 **I'm an Early 🐤** 
