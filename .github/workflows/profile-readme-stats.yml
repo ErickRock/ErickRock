@@ -24,15 +24,15 @@ jobs:
           COMMIT_EMAIL: "erickrock@users.noreply.github.com" # Esse flag pode ser definido como o email para fazer o commit, o padrão é "41898282+github-actions[bot]@users.noreply.github.com"
           SHOW_UPDATED_DATE: true # Esse flag pode ser definido como True para mostrar a data de atualização no final do parágrafo
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S" # Esse flag pode ser definido para colocar a data de atualização em um formato, o padrão é "%d/%m/%Y %H:%M:%S"
-          SHOW_LINES_OF_CODE: true # Esse flag pode ser definido como True para mostrar as linhas de código escritas até hoje
+          SHOW_LINES_OF_CODE: false # Esse flag pode ser definido como True para mostrar as linhas de código escritas até hoje
           SHOW_TOTAL_CODE_TIME: true # Esse flag pode ser definido como False para esconder o tempo de código
-          SHOW_PROFILE_VIEWS: false # Esse flag pode ser definido como False para esconder as visualizações do perfil
+          SHOW_PROFILE_VIEWS: true # Esse flag pode ser definido como False para esconder as visualizações do perfil
           SHOW_DAYS_OF_WEEK: false # Esse flag pode ser definido como False para esconder os commits feitos em diferentes dias da semana
           SHOW_LANGUAGE: true # Esse flag pode ser definido como False para esconder a linguagem de programação que você usa
-          SHOW_OS: false # Esse flag pode ser definido como False para esconder os sistemas operacionais que você usa
+          SHOW_OS: true # Esse flag pode ser definido como False para esconder os sistemas operacionais que você usa
           SHOW_PROJECTS: true # Esse flag pode ser definido como False para esconder os projetos trabalhados
-          SHOW_TIMEZONE: false # Esse flag pode ser definido como False para esconder o fuso horário em que você está
-          SHOW_EDITORS: false # Esse flag pode ser definido como False para esconder a lista de editores de código usados
+          SHOW_TIMEZONE: true # Esse flag pode ser definido como False para esconder o fuso horário em que você está
+          SHOW_EDITORS: true # Esse flag pode ser definido como False para esconder a lista de editores de código usados
           SHOW_LANGUAGE_PER_REPO: true # Esse flag pode ser definido como False para esconder o número de repositórios em diferentes linguagens e frameworks
           SHOW_SHORT_INFO: false # Esse flag pode ser definido como False para esconder a informação curta e divertida do usuário
           SHOW_LOC_CHART: false # Esse flag pode ser definido como False para esconder as linhas de código escritas em diferentes trimestres de diferentes anos
