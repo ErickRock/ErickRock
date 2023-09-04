@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Readme Updater
 
 on:
   workflow_dispatch:
@@ -16,7 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: pt_BR # Esse flag pode ser usado para mostrar as estatísticas no seu idioma
           SECTION_NAME: waka # Esse flag pode ser definido como qualquer string, e será o nome da seção a ser substituída no readme
           COMMIT_BY_ME: true # Esse flag pode ser definido como True para fazer o commit usando o seu nome e email
           COMMIT_MESSAGE: "Atualizado com as estatísticas de desenvolvimento" # Esse flag pode ser definido como a mensagem de commit, o padrão é "Updated with Dev Metrics"
