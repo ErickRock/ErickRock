@@ -32,7 +32,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
           DEBUG_LOGGING: "True"
           
       - uses: lowlighter/metrics@latest
