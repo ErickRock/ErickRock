@@ -11,7 +11,10 @@ on:
 
   # Este comando nos permite executar a Ação automaticamente na guia Ações.
   workflow_dispatch:
-
+    inputs:
+      manual:
+        description: 'Executar manualmente'
+        required: false
 # A sequência de execuções neste fluxo de trabalho:
 jobs:
   # Este fluxo de trabalho contém uma única tarefa chamada "build"
