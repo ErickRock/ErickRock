@@ -17,8 +17,6 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=erickrock&theme=onedark)](https://github.com/erickrock/github-profile-trophy) -->
 
-<img src="github-metrics.svg" alt="Metrics" width="100%">
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->

@@ -7,6 +7,10 @@ on:
   schedule: [{ cron: "0 * * * *" }]
   # Linhas abaixo permitem executar o fluxo de trabalho manualmente e a cada commit
   workflow_dispatch:
+    inputs:
+      manual:
+        description: 'Executar manualmente'
+        required: false
   push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
