@@ -37,8 +37,7 @@ jobs:
           SYMBOL_VERSION: 1
           DEBUG_LOGGING: "True"
     
-      - name: Update with lowlighter/metrics repo    
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           # Seu token do GitHub
@@ -51,8 +50,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: all
 
-      - name: Updating Half-year repo lowlighter/metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
