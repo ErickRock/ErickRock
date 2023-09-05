@@ -23,9 +23,7 @@ jobs:
           SHOW_OS: "True"
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Atualizado com as estatísticas de desenvolvimento"
-          COMMIT_USERNAME: "ErickRock"
-          COMMIT_EMAIL: "erickrock@users.noreply.github.com"
-          SHOW_UPDATED_DATE: "False"
+          SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
@@ -33,20 +31,20 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
-          SYMBOL_VERSION: 1
+          SHOW_LOC_CHART: "False"
+          SYMBOL_VERSION: 2
           DEBUG_LOGGING: "True"
-    
+          
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           # Seu token do GitHub
           token: ${{ secrets.METRICS_TOKEN }}
           # Opções
-          user: erickrock
+          user: EricRock
           base: header, activity, community, repositories, metadata
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 10
           plugin_activity_days: 0
           plugin_activity_filter: all
 
