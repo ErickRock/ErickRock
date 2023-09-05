@@ -17,7 +17,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erickrock&theme=onedark)](https://github.com/erickrock/github-profile-trophy)
 
-<img src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
+<!--STARTS_HERE_QUOTE_README-->
+
+<!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 

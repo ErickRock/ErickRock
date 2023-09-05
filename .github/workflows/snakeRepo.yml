@@ -7,16 +7,11 @@ name: Gerar Cobra
 # Controla quando a ação será executada. Esta ação é executada a cada 6 horas.
 
 on:
-  schedule:
-    # a cada 6 horas
-    - cron: "0 */6 * * *"
-
-  # Este comando nos permite executar a Ação automaticamente na guia Ações.
   workflow_dispatch:
     inputs:
       manual:
         description: 'Executar manualmente'
-        required: false
+        required: true
 # A sequência de execuções neste fluxo de trabalho:
 jobs:
   # Este fluxo de trabalho contém uma única tarefa chamada "build"
