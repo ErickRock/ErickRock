@@ -1,40 +1,39 @@
 # Visite https://github.com/lowlighter/metrics/blob/master/action.yml para referência completa
 # Este arquivo foi gerado automaticamente com base nas flags disponíveis em https://github.com/lowlighter/metrics/blob/latest/README.md
 
-# name: Metrics
-# on:
-#   # Atualizações agendadas (a cada hora)
-#   schedule: [{ cron: "0 * * * *" }]
-#   # Linhas abaixo permitem executar o fluxo de trabalho manualmente e a cada commit
-#   workflow_dispatch:
-#     inputs:
-#       manual:
-#         description: 'Executar manualmente'
-#         required: false
-#   push: { branches: ["master", "main"] }
+name: Metrics
+on:
+  # Atualizações agendadas (a cada hora)
+  # schedule: [{ cron: "0 * * * *" }]
+  # Linhas abaixo permitem executar o fluxo de trabalho manualmente e a cada commit
+  workflow_dispatch:
+    inputs:
+      manual:
+        description: 'Executar manualmente'
+        required: true
 
-# jobs:
-#   github-metrics:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics.svg
-#           # Seu token do GitHub
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           # Opções
-#           user: erickrock
-#           base: header, activity, community, repositories, metadata
-#           plugin_activity: yes
-#           plugin_activity_limit: 5
-#           plugin_activity_days: 0
-#           plugin_activity_filter: all
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
 
-#       - name: Half-year calendar
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: metrics.plugin.isocalendar.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           base: ""
-#           plugin_isocalendar: yes
+    # Etapa para gerar métricas do GitHub
+    steps:
+      - name: Gerar métricas do GitHub
+        uses: lowlighter/metrics@latest
+        with:
+          # Configurações das métricas
+          user: erickrock
+          base: header, activity, community, repositories, metadata
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: all
 
+      # Outras etapas do fluxo de trabalho...
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes

@@ -14,6 +14,7 @@ jobs:
     name: Atualizar README de Citações
     runs-on: ubuntu-latest
     steps:
-      - uses: siddharth2016/quote-readme@main
+      - name: Atualizar README com citações
+        uses: siddharth2016/quote-readme@main
         with:
           OPTION: both # padrão - ambos, pode ser um de (quote, funfact, both), se 'both' então exibirá uma citação ou um fato

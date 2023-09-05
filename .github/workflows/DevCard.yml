@@ -20,7 +20,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: devcard
+      - name: Atualizar cartão de desenvolvedor
         uses: dailydotdev/action-devcard@2.2.0
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}

@@ -1,5 +1,7 @@
 # Ação do GitHub para gerar um gráfico de contribuição com uma cobra comendo suas contribuições.
 
+# Ação do GitHub para gerar um gráfico de contribuição com uma cobra comendo suas contribuições.
+
 name: Gerar Cobra
 
 # Controla quando a ação será executada. Esta ação é executada a cada 6 horas.
