@@ -1,58 +1,20 @@
-name: Waka update profile Readme
+name: Atualizar Readme de Citações
 
 on:
-  # Atualizações agendadas (a cada hora)
-  schedule: [{ cron: "0 * * * *" }]
-
-  # Linhas abaixo permitem executar o fluxo de trabalho manualmente e a cada commit
   workflow_dispatch:
-  push: { branches: ["master", "main"] }
+  # Dispara o fluxo de trabalho em eventos de push ou pull request, mas apenas para o branch principal
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "*/5 * * * *"
 
 jobs:
   update-readme:
-    name: Update with anmol098/waka-readme-stats repo
+    name: Atualizar README de Citações
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Atualizar README com citações
+        uses: siddharth2016/quote-readme@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          SECTION_NAME: waka
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Atualizado com as estatísticas de desenvolvimento"
-          COMMIT_USERNAME: "ErickRock"
-          COMMIT_EMAIL: "erickrock@users.noreply.github.com"
-          SHOW_UPDATED_DATE: "false"
-          SHOW_LINES_OF_CODE: "false"
-          SHOW_TOTAL_CODE_TIME: "false"
-          SHOW_PROFILE_VIEWS: "false"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
-          SYMBOL_VERSION: 1
-          DEBUG_LOGGING: "True"
-    
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics.svg
-          # Seu token do GitHub
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Opções
-          user: ErickRock
-          base: header, activity, community, repositories, metadata
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: all
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
+          OPTION: both # padrão - ambos, pode ser um de (quote, funfact, both), se 'both' então exibirá uma citação ou um fato
