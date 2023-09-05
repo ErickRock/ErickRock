@@ -20,7 +20,7 @@ jobs:
           SECTION_NAME: waka
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
-          SHOW_OS: "True"
+          SHOW_OS: "False"
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Atualizado com as estatísticas de desenvolvimento"
           SHOW_UPDATED_DATE: "True"
@@ -32,7 +32,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 3
           DEBUG_LOGGING: "True"
           
       - uses: lowlighter/metrics@latest
