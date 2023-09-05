@@ -20,8 +20,9 @@
 <img src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
+---
 
 ⭐️ From [ErickRock](https://github.com/ErickRock)
 
