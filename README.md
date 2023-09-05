@@ -2,8 +2,7 @@
 
 ### 📫 How to reach me:
 
-[![GitHub Erick](https://img.shields.io/github/followers/ErickRock?label=follow&style=social)](https://github.com/ErickRock)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/garciaeriickk) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ErickGarciaGodoy)
+[![GitHub Erick](https://img.shields.io/github/followers/ErickRock?label=follow&style=social)](https://github.com/ErickRock) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/garciaeriickk) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ErickGarciaGodoy)
 
 ## About me
 
@@ -24,9 +23,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 9.5 kB Used in GitHub's Storage 
+> 📦 9.8 kB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2023
+> 🏆 73 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -37,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-🌆 Daytime                100 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌃 Evening                73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-🌙 Night                  80 commits          ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌆 Daytime                100 commits         ████████░░░░░░░░░░░░░░░░░   30.67 % 
+🌃 Evening                73 commits          ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+🌙 Night                  89 commits          ███████░░░░░░░░░░░░░░░░░░   27.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   136 commits         ███████████░░░░░░░░░░░░░░   42.90 % 
-Tuesday                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Monday                   136 commits         ██████████░░░░░░░░░░░░░░░   41.72 % 
+Tuesday                  65 commits          █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 
@@ -94,6 +93,8 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<img src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
 
 ---
 
