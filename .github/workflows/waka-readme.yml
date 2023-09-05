@@ -10,7 +10,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update with anmol098/waka-readme-stats repo
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -18,11 +18,27 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           SECTION_NAME: waka
-          SHOW_PROJECTS: "true"
+          SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
-
-      - uses: lowlighter/metrics@latest
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "Atualizado com as estatísticas de desenvolvimento"
+          COMMIT_USERNAME: "ErickRock"
+          COMMIT_EMAIL: "erickrock@users.noreply.github.com"
+          SHOW_UPDATED_DATE: "false"
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "True"
+          SYMBOL_VERSION: 1
+          DEBUG_LOGGING: "True"
+    
+      - name: Update with lowlighter/metrics repo    
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           # Seu token do GitHub
@@ -34,13 +50,11 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: all
-                    
-      - name: Half-year calendar
+
+      - name: Updating Half-year repo lowlighter/metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-
-  
