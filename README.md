@@ -17,7 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=erickrock&theme=onedark)](https://github.com/erickrock/github-profile-trophy)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:waka-->
