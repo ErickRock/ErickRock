@@ -17,7 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=erickrock&theme=onedark)](https://github.com/erickrock/github-profile-trophy)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  ❞</i>
+<i>❝“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--START_SECTION:waka-->
