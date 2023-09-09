@@ -7,18 +7,22 @@
 ## About me
 
 ```diff
-< I'm a Software Developer
+! I'm a Software Developer
 
 > I'm looking for a job as a .Net Developer
 > I'm posting tips from the tech world on LinkedIn and Dev.To 📰
-> I'm a volunteer in the Microsoft community
-> I love the Star Wars universe and talking about Tech 
-> I have a passion for teaching other people. 
+> I'm a volunteer in the Microsoft Community
+! I love the Star Wars universe and talking about Tech 
+! I have a passion for teaching other people. 
 
-! ‍Content creator for Developers 
-! Back-end is the force! 😎
+> ‍Content creator for Developers 
+- Back-end is the force! 😎
 ```
+## Recently articles at [Dev.to](https://dev.to/erickrock)
 
+- 📚 [[PT-BR] O que é o Oh My Zsh e como ele pode melhorar a sua experiência com o Windows Terminal](https://dev.to/erickrock/pt-br-instalando-oh-my-zsh-no-windows-terminal-3a8l)
+- 📚 [Gerenciador de pacotes do Windows - Winget-Cli](https://dev.to/erickrock/gerenciador-de-pacotes-do-windows-winget-cli-51oj)
+  
 <!--O conteúdo abaixo atualiza manualmente com o ./.github/workflows/quote.yml -->
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝There are more than 5000 new computer viruses are released every month.❞</i>
