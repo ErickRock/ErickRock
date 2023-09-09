@@ -4,7 +4,7 @@ on:
   # Atualizações agendadas (a cada hora)
   schedule: [{ cron: "0 * * * *" }]
 
-  # Linhas abaixo permitem executar o fluxo de trabalho manualmente e a cada commit
+  # Linhas abaixo permitem executar o fluxo de trabalho manualmente e a cada commit nas branch main ou master
   workflow_dispatch:
   push: { branches: ["master", "main"] }
 

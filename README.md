@@ -6,20 +6,25 @@
 
 ## About me
 
-<strong>I'm a Software Developer</strong>
+```diff
+< I'm a Software Developer
 
-**I'm looking for a job as a software developer** 
+> I'm looking for a job as a .Net Developer
+> I'm posting tips from the tech world on LinkedIn and Dev.To 📰
+> I'm a volunteer in the Microsoft community
+> I love the Star Wars universe and talking about Tech 
+> I have a passion for teaching other people. 
 
-**I'm posting tips from the tech world on [LinkedIn](https://linkedin.com/in/ErickGarciaGodoy)**
+! ‍Content creator for Developers 
+! Back-end is the force! 😎
+```
 
-**I'm a volunteer in the Microsoft community - [Microsoft community](https://answers.microsoft.com/pt-br/profile/7bf89b3c-a0e4-46a4-b017-99a885f3c367)**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=erickrock&theme=onedark)](https://github.com/erickrock/github-profile-trophy)
-
+<!--O conteúdo abaixo atualiza manualmente com o ./.github/workflows/quote.yml -->
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
+<!--O conteúdo abaixo atualiza automaticamente a cada hora com o ./.github/workflows/waka.readme.yml.yml -->
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
