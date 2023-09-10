@@ -25,7 +25,7 @@
   
 <!--O conteúdo abaixo atualiza manualmente com o ./.github/workflows/quote.yml -->
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.❞</i>
+<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--O conteúdo abaixo atualiza automaticamente a cada hora com o ./.github/workflows/waka.readme.yml.yml -->
