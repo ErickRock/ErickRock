@@ -34,7 +34,7 @@
 
 > 📦 14.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,698 Contributions in the Year 2023
+> 🏆 2,700 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -42,6 +42,42 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                722 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌆 Daytime                719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+🌃 Evening                738 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+🌙 Night                  763 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   459 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Tuesday                  493 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Wednesday                445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Thursday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Friday                   388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Saturday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Sunday                   362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -55,7 +91,7 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/12/2023 04:12:20 UTC
+ Last Updated on 01/12/2023 05:10:19 UTC
 <!--END_SECTION:waka-->
 
 <img src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
